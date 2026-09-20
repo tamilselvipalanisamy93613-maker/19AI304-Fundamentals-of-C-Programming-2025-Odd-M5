@@ -39,6 +39,7 @@
 ### Step 12: 
   Stop
 # Program:
+```
 #include <stdio.h>
 
 /* Call by Value */
@@ -77,6 +78,7 @@ int main()
 
     return 0;
 }
+```
 # Output:
 Before call by value: x = 10, y = 20
 Inside call by value: a = 20, b = 10
@@ -121,6 +123,7 @@ After call by reference: x = 20, y = 10
 ### Step 10:
   Stop
 # Program:
+```
 #include <stdio.h>
 
 int fibonacci(int n)
@@ -149,6 +152,7 @@ int main()
 
     return 0;
 }
+```
 # Output:
 Enter the number of terms: 10
 Fibonacci Series: 0 1 1 2 3 5 8 13 21 34
@@ -193,6 +197,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 12:
   Stop
 # Program:
+```
 #include <stdio.h>
 
 void printNumbers(int n, int upper)
@@ -240,7 +245,9 @@ int main()
     }
 
     return 0;
+
 }
+```
 # Output:
 Enter lower limit: 2
 Enter upper limit: 12
@@ -292,6 +299,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11:
   Stop
 # Program:
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -324,6 +332,7 @@ int main()
 
     return 0;
 }
+```
 # Output:
 Enter the number of integers: 5
 Enter 5 integers:
@@ -364,6 +373,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+```
 #include <stdio.h>
 
 void display(int arr[], int n)
@@ -395,6 +405,7 @@ int main()
 
     return 0;
 }
+```
 # Output:
 Enter the number of elements: 5
 Enter 5 integers:
